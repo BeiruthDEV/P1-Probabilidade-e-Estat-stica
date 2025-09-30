@@ -15,5 +15,5 @@ Este repositório contém a resolução da **Prova P1** da disciplina de Probabi
 ## ▶️ Como Executar
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/BeiruthDEV/prova-p1-analise-dados.git
+   git clone https://github.com/BeiruthDEV/P1-Probabilidade-e-Estat-stica.git
    ```
